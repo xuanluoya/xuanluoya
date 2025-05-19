@@ -28,8 +28,6 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
 
 ## Environment
 * C
-* Rust
 
 ## Contact
-* Twitter :[@Xuanluo_Qiu](https://twitter.com/xuanluo_qiu)
-* Mail    :vioercer@outlook.com
+* Mail: uwu@owobit.cc
